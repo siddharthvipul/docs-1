@@ -1,1 +1,21 @@
-= This is the Getting Started Guide
+== CentOS CI user getting started guide
+
+=== New Project/User request
+
+    * Visit https://bugs.centos.org/
+    * Report an Issue under the 'CentOS CI' project
+    * Include the following information in your report:
+        ** Your Name
+        ** The project you are working with
+        ** Your Desired Username
+        ** Your Email Address
+        ** Your gpg pubkey (attach this to the bug please)
+
+=== Account Approval
+
+**Special Interest Group Members**: Contact your SIG Chair to comment his/her approval on the bug you created.
+
+**Upstream Projects**: We will work with you to designate a coordinator to approve new members of your project in ci.
+
+Contact: #centos-ci@Freenode
+
